@@ -1,0 +1,39 @@
+{
+  "name": "temp-dir-cp",
+  "version": "0.0.0",
+  "description": "Copy folder temp location",
+  "license": "MIT",
+  "homepage": "https://github.com/dawsbot/temp-dir-cp#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawsbot/temp-dir-cp.git"
+  },
+  "author": {
+    "name": "Dawson Botsford",
+    "email": "DawsonBotsford@gmail.com",
+    "url": "dawsonbotsford.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dawsbot/temp-dir-cp/issues"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [],
+  "dependencies": {
+    "fs-extra": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "space": true
+  }
+}
