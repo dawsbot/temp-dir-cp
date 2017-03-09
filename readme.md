@@ -65,10 +65,10 @@ Type: `string`
 
 ## License
 
-MIT © [Dawson Botsford](http://dawsonbotsford.com)
+MIT © [Dawson Botsford](https://dawsonbotsford.com)
 
 [npm-image]: https://badge.fury.io/js/temp-dir-cp.svg
-[npm-url]: https://npmjs.org/package/temp-dixture
+[npm-url]: https://npmjs.org/package/temp-dir-cp
 [travis-image]: https://travis-ci.org/dawsbot/temp-dir-cp.svg?branch=master
 [travis-url]: https://travis-ci.org/dawsbot/temp-dir-cp
 [xo-image]: https://img.shields.io/badge/code_style-XO-5ed9c7.svg
